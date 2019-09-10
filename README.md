@@ -8,10 +8,14 @@ This assignment projects makes use of a small number of libraries in Python for 
 The main purpose of this assignment is to use SDLC development methods, particularly Agile development methodology, to be able to read numerous data sets, removing any noise and presenting the data in a viewable, user-friendly format.
 The data in the data set consists of readings taken by sensors that measure the day-to-day activites of a person. The data given here also compares the activity between multiple different people with differing amounts activities. 
 
+The Dataset for this assignment has been appropriately named 'Daily Life Activites' or 'DaLiAc' for short.
 
 ## Getting Started
 
 The code to this assignment is open sourced and to get a copy of the assignment, simply clone the repository and make a pull request on any new features.
+
+To get the dataset used in the assignment, go to: https://www.mad.tf.fau.de/research/activitynet/daliac-daily-life-activities/
+Scroll to the bottom of the page to view the daliac.zip which consists of the dataset based on the activities of a person's daily life activites.
 
 ### Prerequisites
 
